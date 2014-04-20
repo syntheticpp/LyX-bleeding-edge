@@ -333,6 +333,26 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
+.zip_download_link_master {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download_master.png) no-repeat bottom left;
+}
+
+.zip_download_link_21x {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download_21x.png) no-repeat bottom left;
+}
+
 .tar_download_link {
   display: block;
   float: right;
