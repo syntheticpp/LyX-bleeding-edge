@@ -16,7 +16,8 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-Build status: [![Build Status](https://travis-ci.org/syntheticpp/lyx.png?branch=bleeding-edge)](https://travis-ci.org/syntheticpp/lyx)
+Build status: [![Build Status](https://travis-ci.org/syntheticpp/lyx.svg?branch=bleeding-edge-2.1.x)](https://travis-ci.org/syntheticpp/lyx)
+              
 
 Updated every hour.
 
